@@ -77,8 +77,8 @@ To grow as a software developer, build meaningful projects, and explore how AI c
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonixka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonixka&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://![GitHub Metrics](./github-metrics.svg)/api?username=Sonixka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://![GitHub Metrics](./github-metrics.svg)/api/top-langs/?username=Sonixka&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 
@@ -86,4 +86,3 @@ To grow as a software developer, build meaningful projects, and explore how AI c
   <i>Always learning. Always building. Always curious.</i> ✨
 </p>
 
-![GitHub Metrics](./github-metrics.svg)
