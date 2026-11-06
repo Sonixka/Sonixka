@@ -74,13 +74,12 @@ To grow as a software developer, build meaningful projects, and explore how AI c
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://![GitHub Metrics](./github-metrics.svg)/api?username=Sonixka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://![GitHub Metrics](./github-metrics.svg)/api/top-langs/?username=Sonixka&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
-
 
 <p align="center">
   <i>Always learning. Always building. Always curious.</i> ✨
