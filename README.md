@@ -78,7 +78,7 @@ To grow as a software developer, build meaningful projects, and explore how AI c
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="600" />
 </p>
 
 <p align="center">
