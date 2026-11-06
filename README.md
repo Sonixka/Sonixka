@@ -1,3 +1,4 @@
+
 # Hi, I'm Sonixka! 👋
 
 ### Junior Developer | Python & AI Enthusiast
@@ -6,11 +7,11 @@ I'm an aspiring software developer passionate about building web applications an
 
 I enjoy turning ideas into functional applications, learning new technologies, and solving real-world problems through code.
 
-
+---
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,32 +19,29 @@ I enjoy turning ideas into functional applications, learning new technologies, a
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
-
-### Frameworks & Libraries
+**Frameworks & Libraries**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br>
-
-### Tools & Technologies
+**Development Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
 
-### 🚀 Featured Project
+## 🚀 Featured Project
 
-**Kariéra+ AI – AI-Powered Job Assistant**
+### Kariéra+ AI – AI-Powered Job Assistant
 
 A personal project focused on combining web development and artificial intelligence.
 
-Key features:
+**Key Features**
+
 - AI-powered CV analysis
 - Job search and matching
 - CV upload and text extraction
@@ -51,9 +49,13 @@ Key features:
 - AI-powered interview preparation
 - Job application tracking
 
-**Tech stack:** Python, FastAPI, SQLite, JavaScript, HTML, CSS, Google Gemini API.
+**Tech Stack**
 
-### 🌱 Currently Learning
+Python · FastAPI · SQLite · JavaScript · HTML · CSS · Google Gemini API
+
+---
+
+## 🌱 Currently Learning
 
 - Python development and backend programming
 - Artificial Intelligence and LLM integration
@@ -61,10 +63,14 @@ Key features:
 - Database design and SQL
 - Building practical web applications
 
-### 🎯 My Goal
+---
+
+## 🎯 My Goal
 
 To grow as a software developer, build meaningful projects, and explore how AI can make everyday tasks easier and more efficient.
 
 ---
 
-*Always learning. Always building. Always curious.* ✨
+<p align="center">
+  <i>Always learning. Always building. Always curious.</i> ✨
+</p>
