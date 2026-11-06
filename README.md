@@ -85,3 +85,7 @@ To grow as a software developer, build meaningful projects, and explore how AI c
 <p align="center">
   <i>Always learning. Always building. Always curious.</i> ✨
 </p>
+
+## 📊 GitHub Statistics
+
+![GitHub Metrics](./github-metrics.svg)
