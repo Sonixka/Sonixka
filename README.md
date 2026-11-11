@@ -1,17 +1,14 @@
-
 # Hi, I'm Sonixka! 👋
 
-### Junior Developer | Python & AI Enthusiast
+### Aspiring Software Developer | Python & AI Enthusiast
 
-I'm an aspiring software developer passionate about building web applications and exploring the possibilities of artificial intelligence.
-
-I enjoy turning ideas into functional applications, learning new technologies, and solving real-world problems through code.
+I'm building practical web applications and exploring how artificial intelligence can solve real-world problems. I enjoy learning by turning ideas into working software.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Programming Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,7 +22,7 @@ I enjoy turning ideas into functional applications, learning new technologies, a
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Development Tools**
+**Tools & Databases**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -38,43 +35,26 @@ I enjoy turning ideas into functional applications, learning new technologies, a
 
 ### [Kariéra+ AI – AI-Powered Job Assistant](https://github.com/Sonixka/kariera-plus-ai)
 
-A personal project focused on combining web development and artificial intelligence.
+A job-search assistant for Czech job seekers, built with FastAPI, SQLite, and JavaScript. It brings job search and tracking together with AI-powered CV analysis and interview preparation.
 
-**Key Features**
-
-- AI-powered CV analysis
-- Job search and matching
-- CV upload and text extraction
-- AI-generated cover letters
-- AI-powered interview preparation
-- Job application tracking
-
-**Tech Stack**
-
-Python · FastAPI · SQLite · JavaScript · HTML · CSS · Google Gemini API
+**Tech Stack:** Python · FastAPI · SQLite · JavaScript · HTML · CSS · Google Gemini API
 
 ---
 
 ## 🌱 Currently Learning
 
-- Python development and backend programming
-- Artificial Intelligence and LLM integration
-- API development
-- Database design and SQL
-- Building practical web applications
+- Backend development with Python and FastAPI
+- AI and LLM integration
+- API development and database design
+- Building practical, user-focused web applications
 
 ---
 
 ## 🎯 My Goal
 
-To grow as a software developer, build meaningful projects, and explore how AI can make everyday tasks easier and more efficient.
+To grow as a software developer by building useful projects and learning how AI can make everyday tasks easier.
 
 ---
-
-
----
-
-
 
 ## 📊 GitHub Statistics
 
@@ -85,5 +65,3 @@ To grow as a software developer, build meaningful projects, and explore how AI c
 <p align="center">
   <i>Always learning. Always building. Always curious.</i> ✨
 </p>
-
-
