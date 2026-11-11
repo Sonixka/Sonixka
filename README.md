@@ -36,7 +36,7 @@ I enjoy turning ideas into functional applications, learning new technologies, a
 
 ## 🚀 Featured Project
 
-### Kariéra+ AI – AI-Powered Job Assistant
+### [Kariéra+ AI – AI-Powered Job Assistant](https://github.com/Sonixka/kariera-plus-ai)
 
 A personal project focused on combining web development and artificial intelligence.
 
