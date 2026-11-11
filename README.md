@@ -1,12 +1,23 @@
-# Hi, I'm Sonixka! 👋
+# Hi, I'm Sonixka 👋
 
-### Aspiring Software Developer | Python & AI Enthusiast
+### Junior Developer | Python & AI Enthusiast
 
-I'm building practical web applications and exploring how artificial intelligence can solve real-world problems. I enjoy learning by turning ideas into working software.
+I build practical web applications and enjoy turning ideas into working software. My focus is on Python, backend development, AI-powered features, and creating tools that solve real-world problems.
+
+I’m especially interested in building clean APIs, working with data, and exploring how AI can improve everyday workflows.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 About Me
+
+- Passionate about software development and continuous learning
+- Interested in Python, FastAPI, AI integrations, and web apps
+- Enjoy turning concepts into real, useful products
+- Currently focused on backend development, data-driven features, and AI-assisted tools
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -22,7 +33,7 @@ I'm building practical web applications and exploring how artificial intelligenc
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Tools & Databases**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -33,26 +44,37 @@ I'm building practical web applications and exploring how artificial intelligenc
 
 ## 🚀 Featured Project
 
-### [Kariéra+ AI – AI-Powered Job Assistant](https://github.com/Sonixka/kariera-plus-ai)
+### [Kariéra+ AI](https://github.com/Sonixka/kariera-plus-ai)
 
-A job-search assistant for Czech job seekers, built with FastAPI, SQLite, and JavaScript. It brings job search and tracking together with AI-powered CV analysis and interview preparation.
+AI-powered job assistant built to support job seekers with structured workflow management, CV analysis, offer comparison, and interview preparation.
 
-**Tech Stack:** Python · FastAPI · SQLite · JavaScript · HTML · CSS · Google Gemini API
+**Key features**
+
+- AI-based CV analysis
+- Job search and matching
+- Job tracking and management
+- Cover letter generation
+- Interview preparation workflow
+
+**Tech stack**
+
+Python · FastAPI · SQLite · JavaScript · HTML · CSS · Google Gemini API
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Backend development with Python and FastAPI
-- AI and LLM integration
-- API development and database design
-- Building practical, user-focused web applications
+- AI integration and LLM workflows
+- API design and authentication
+- SQL and database architecture
+- Building user-focused software products
 
 ---
 
-## 🎯 My Goal
+## 🎯 Goals
 
-To grow as a software developer by building useful projects and learning how AI can make everyday tasks easier.
+To keep growing as a software developer by building useful, polished applications and learning how AI can improve real-world productivity.
 
 ---
 
@@ -64,4 +86,12 @@ To grow as a software developer by building useful projects and learning how AI 
 
 <p align="center">
   <i>Always learning. Always building. Always curious.</i> ✨
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Sonixka/kariera-plus-ai">
+    <img alt="View project" src="https://img.shields.io/badge/View_Project-Kariéra%2B%20AI-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
