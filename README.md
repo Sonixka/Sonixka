@@ -101,6 +101,6 @@ To keep growing as a software developer by building useful, polished application
 ## 📸 Moje projekty a ukázky
 
 <p align="center">
-  <img src="./Snímek obrazovky 2026-11-14 162427.png" width="48%" />
-  <img src="./Snímek obrazovky 2026-11-14 162454.png" width="48%" />
+  <img src="Snímek%20obrazovky%202026-11-14%20162427.png" width="48%" />
+  <img src="Snímek%20obrazovky%202026-11-14%20162454.png" width="48%" />
 </p>
