@@ -96,3 +96,11 @@ To keep growing as a software developer by building useful, polished application
     <img alt="View project" src="https://img.shields.io/badge/View_Project-Kariéra%2B%20AI-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+
+## 📸 Moje projekty a ukázky
+
+<p align="center">
+  <img src="./Snímek obrazovky 2026-11-14 162427.png" width="48%" />
+  <img src="./Snímek obrazovky 2026-11-14 162454.png" width="48%" />
+</p>
