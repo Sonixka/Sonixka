@@ -81,7 +81,8 @@ To keep growing as a software developer by building useful, polished application
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonixka&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonixka&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
