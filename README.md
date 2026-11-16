@@ -1,4 +1,4 @@
-# Hi, I'm Sonixka 👋
+# Hi, I'm Soňa Rebeka Pařízková 👋
 
 ### Junior Developer | Python & AI Enthusiast
 
